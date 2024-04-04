@@ -1,18 +1,15 @@
 {
-  "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+  "name": "Saurav Kumar",
+    "label": "Cloud/DevOps Engineer",
+    "picture": "https://github.com/sauravkb94.png",
+    "email": "Sauravkb94@gmail.com",
+    "phone": "+39-3515772340",
+    "website": "https://sauravkb94.github.io/",
+    "summary": "Hello, and welcome! I'm a passionate DevOps Engineer with a knack for optimizing software development processes and enhancing cloud infrastructure. I've helped numerous organizations achieve greater agility, reliability, and efficiency in their operations.",
+    "location": { "address": "Via san mamete 12", "postalCode": "20128", "city": "Milano", "countryCode": "IT", "region": "Italy" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "sauravkb94", "url": "http://github.com/sauravkb94" },
+      { "network": "linkedin", "username": "saurav-kumar", "url": "https://www.linkedin.com/in/saurav-kumar-453408b8/" }
     ]
   },
   "interests": [
